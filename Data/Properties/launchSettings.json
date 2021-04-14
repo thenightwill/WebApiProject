@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Data": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "redishost": "34343434",
+        "redisport": "5003"
+      }
+    }
+  }
+}
